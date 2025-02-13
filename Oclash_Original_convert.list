@@ -1,3 +1,6 @@
+;luci-app-openclash/root/usr/share/openclash/res/sub_ini.list
+;https://github.com/vernesong/OpenClash/blob/2cb62f3f4b87bd30ea8fb0832a7c6d5d7ae08e6c/luci-app-openclash/root/usr/share/openclash/res/sub_ini.list
+
 默认（附带用于Clash的AdGuard DNS）,default_with_clash_adg.yml,https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/default_with_clash_adg.yml
 无Urltest,no_urltest.ini,https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/no_urltest.ini
 带Urltest,urltest.ini,https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/urltest.ini
