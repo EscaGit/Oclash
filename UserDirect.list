@@ -3,8 +3,8 @@
 # REPO: https://github.com/escagit/Oclash
 # UPDATED: 2025-02-15 14:30
 
-DOMAIN,x3322.net.com
-SRC-IP-CIDR,192.168.1.2/32
+DOMAIN-SUFFIX,x3322.net
+SRC-IP-CIDR,192.168.1.2/32,no-resolve
 
 ## script:
 ##  shortcuts:
