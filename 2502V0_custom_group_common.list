@@ -1,0 +1,17 @@
+; https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/custom_group_common.list
+
+UserReject`select`[]REJECT`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+UserDirect`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+UserProxy`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+AI`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+PT`select`[]DIRECT`[]Proxies`[]Fallback
+Apple`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+Google`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+Microsoft`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+Telegram`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+TikTok`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+Youtube`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+Netflix`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER`NF|Netflix|NETFLIX|原生|解锁
+GlobalMedia`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+HKMTMedia`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 OTHER
+Final`select`[]Proxies`[]DIRECT`[]REJECT
