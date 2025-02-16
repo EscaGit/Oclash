@@ -1,0 +1,9 @@
+Fallback`fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER`https://cp.cloudflare.com/generate_204`300,,50
+🚀 US`url-test`美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图`https://cp.cloudflare.com/generate_204`300,,50
+🚀 HK`url-test`港`https://cp.cloudflare.com/generate_204`300,,50
+🚀 SG`url-test`新加坡|狮城`https://cp.cloudflare.com/generate_204`300,,50
+🚀 JP`url-test`日本((?!用).)+|东京|大阪|埼玉`https://cp.cloudflare.com/generate_204`300,,50
+🚀 TW`url-test`台|新北|彰化`https://cp.cloudflare.com/generate_204`300,,50
+🚀 KR`url-test`韩|首尔`https://cp.cloudflare.com/generate_204`300,,50
+🚀 EU`select`德|加拿大|意大利|挪威|法国|爱尔兰|英|瑞|澳
+🚀 OTHER`select`阿根廷|俄|土耳其|菲律宾|马来|越南|泰国|巴西|南非|卡塔尔|印度|尼日利亚
