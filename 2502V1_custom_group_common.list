@@ -1,8 +1,5 @@
 ; https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/custom_group_common.list
 
-;添加Mojie分组
-🚀 Mojie`urltest`!!GROUPID=1
-
 UserReject`select`[]REJECT`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
 UserDirect`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
 UserProxy`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
