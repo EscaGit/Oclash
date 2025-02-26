@@ -13,6 +13,11 @@ DOMAIN-SUFFIX,abchina.com.cn
 
 # > Bank of China
 DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochkonline.com
+
 
 # > China Citic Bank
 DOMAIN-SUFFIX,citicbank.com
@@ -31,7 +36,6 @@ DOMAIN-SUFFIX,cebbank.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmbt.cn
-DOMAIN-SUFFIX,mbcloud.com
 
 # > Industrial and Commercial Bank of China
 # - USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
@@ -41,9 +45,11 @@ DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,pingan.com
 DOMAIN-SUFFIX,pingan.com.cn
 
+# > Standard Chartered Bank
+DOMAIN-SUFFIX,sc.com
 
-# securities company rules:
-# > eastmoney
+# Securities Company Rules:
+# > Eastmoney Securities Company
 DOMAIN-SUFFIX,1234567.com.cn
 DOMAIN-SUFFIX,dfcfw.com 
 DOMAIN-SUFFIX,eastmoney.com 
@@ -52,10 +58,8 @@ DOMAIN-SUFFIX,tiantianfunds.cn
 DOMAIN-SUFFIX,uufund.cn 
 DOMAIN-SUFFIX,18.cn 
 DOMAIN-SUFFIX,18.com.cn 
-DOMAIN-SUFFIX,95021.com 
-DOMAIN-SUFFIX,uufund.com 
 
-# > foundersc
+# > Foundersc Securities Company
 DOMAIN-SUFFIX,foundersc.com
 
 ## script:
