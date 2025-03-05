@@ -4,6 +4,16 @@
 # UPDATED: 2025-02-15 14:30
 
 DOMAIN-SUFFIX,x3322.net
+
+# Github Release 加速站
+# Refer to: https://wkdaily.cpolar.top/archives/1
+DOMAIN-SUFFIX,slink.ltd
+DOMAIN-SUFFIX,ghp.ml1.one
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,gh-proxy.ygxz.in
+DOMAIN-SUFFIX,ghproxy.net
+DOMAIN-SUFFIX,doget.nocsdn.com
+
 # SRC-IP-CIDR,192.168.1.2/32,no-resolve
 
 # BANK rules:
