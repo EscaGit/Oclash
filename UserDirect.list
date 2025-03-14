@@ -3,7 +3,14 @@
 # REPO: https://github.com/escagit/Oclash
 # UPDATED: 2025-02-15 14:30
 
+# Local IP:192.168.1.2~9 DIRECT
+SRC-IP-CIDR,192.168.1.2/31,no-resolve
+SRC-IP-CIDR,192.168.1.4/30,no-resolve
+SRC-IP-CIDR,192.168.1.8/31,no-resolve
+
 DOMAIN-SUFFIX,x3322.net
+DOMAIN-SUFFIX,tml121.imwork.net
+DOMAIN-SUFFIX,tml121.x3322.net
 
 # Github Release 加速站
 # Refer to: https://wkdaily.cpolar.top/archives/1
@@ -72,6 +79,7 @@ DOMAIN-SUFFIX,18.com.cn
 # > Foundersc Securities Company
 DOMAIN-SUFFIX,foundersc.com
 
+## ------------------------------------------------------------------------------------------------------------
 ## script:
 ##  shortcuts:
 ##    Notice: The core timezone is UTC
