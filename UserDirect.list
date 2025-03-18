@@ -3,6 +3,9 @@
 # REPO: https://github.com/escagit/Oclash
 # UPDATED: 2025-02-15 14:30
 
+# Local Port: DIRECT
+DST-PORT,22000 # Syncthing
+
 # Local IP:192.168.1.2~9 DIRECT
 SRC-IP-CIDR,192.168.1.2/31,no-resolve
 SRC-IP-CIDR,192.168.1.4/30,no-resolve
