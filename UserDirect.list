@@ -1,12 +1,13 @@
 # NAME: UserDirect
 # AUTHOR: EscaGit
-# REPO: https://github.com/escagit/Oclash
-# UPDATED: 2025-02-15 14:30
+# REPO: https://github.com/escagit/Oclash/UserDirect
+# UPDATED: 2025-03-20 16:00
 
 # Local IP:192.168.1.2~9 DIRECT
 SRC-IP-CIDR,192.168.1.2/31,no-resolve
 SRC-IP-CIDR,192.168.1.4/30,no-resolve
 SRC-IP-CIDR,192.168.1.8/31,no-resolve
+# SRC-IP-CIDR,192.168.1.2/32,no-resolve
 
 DOMAIN-SUFFIX,x3322.net
 DOMAIN-SUFFIX,tml121.imwork.net
@@ -20,8 +21,6 @@ DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,gh-proxy.ygxz.in
 DOMAIN-SUFFIX,ghproxy.net
 DOMAIN-SUFFIX,doget.nocsdn.com
-
-# SRC-IP-CIDR,192.168.1.2/32,no-resolve
 
 # BANK rules:
 # > Agricultural Bank of China
