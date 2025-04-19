@@ -1,12 +1,13 @@
 # NAME: UserProxy
 # AUTHOR: EscaGit
 # REPO: https://github.com/escagit/Oclash
-# UPDATED: 2025-02-15 14:30
+# UPDATED: 2025-04-18 17:00
 
 DOMAIN,evernote.com
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,pinterest.com
 
 ## script:
 ##  shortcuts:
