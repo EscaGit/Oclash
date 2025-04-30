@@ -3,6 +3,7 @@
 UserReject`select`[]REJECT`[]DIRECT`[]Proxies`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
 UserDirect`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
 UserProxy`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+UserHK`select`[]🚀 MHK`[]🚀 HK`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
 AI`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
 PT`select`[]DIRECT`[]Proxies`[]Fallback`[]REJECT
 Apple`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
