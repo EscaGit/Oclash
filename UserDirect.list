@@ -70,6 +70,17 @@ DOMAIN-SUFFIX,chinastock.com.cn
 
 # > thinktrader
 DOMAIN-SUFFIX,thinktrader.net
+IP-CIDR,115.231.218.0/24,no-resolve
+IP-CIDR,119.147.202.0/24,no-resolve
+IP-CIDR,218.16.123.0/24,no-resolve
+IP-CIDR,36.99.48.0/24,no-resolve
+IP-CIDR,42.228.16.0/24,no-resolve
+IP-CIDR,43.242.96.0/24,no-resolve
+IP-CIDR,114.251.2.81/32,no-resolve
+IP-CIDR,218.16.123.122/32,no-resolve
+IP-CIDR,219.143.214.207/32,no-resolve
+IP-CIDR,43.242.96.162/32,no-resolve
+
  
 # > Eastmoney Securities Company
 DOMAIN-SUFFIX,1234567.com.cn
