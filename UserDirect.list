@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,chinastock.com.cn
 
 # > thinktrader
 DOMAIN-SUFFIX,thinktrader.net
+IP-CIDR,209.143.214.207/32,no-resolve
 IP-CIDR,115.231.218.0/24,no-resolve
 IP-CIDR,119.147.202.0/24,no-resolve
 IP-CIDR,218.16.123.0/24,no-resolve
