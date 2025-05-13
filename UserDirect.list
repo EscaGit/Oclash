@@ -67,6 +67,9 @@ DOMAIN-SUFFIX,sc.com
 # Securities Company Rules:
 # > Yinhe Securities Company
 DOMAIN-SUFFIX,chinastock.com.cn
+
+# > thinktrader
+DOMAIN-SUFFIX,thinktrader.net
  
 # > Eastmoney Securities Company
 DOMAIN-SUFFIX,1234567.com.cn
