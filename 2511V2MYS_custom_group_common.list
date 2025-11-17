@@ -1,0 +1,24 @@
+; https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/custom_group_common.list
+
+;raw0: `[]⏳ Raw0_Monthly #DLG
+;raw1: `[]⏳ Raw1_Yearly #Cloverud
+;raw2: `[]🚀 Standby #Mojie
+
+
+UserReject`select`[]REJECT`[]DIRECT`[]Proxies`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+UserDirect`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+UserProxy`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+UserHK`select`[]🚀 MHK`[]🚀 HK`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+AI`select`[]🚀 MUS`[]🚀 US`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+PT`select`[]DIRECT`[]Proxies`[]Fallback`[]REJECT
+Apple`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Google`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Microsoft`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Telegram`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+GitHub`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+TikTok`select`[]🚀 MUS`[]🚀 US`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Youtube`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Netflix`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER`NF|Netflix|NETFLIX|原生|解锁
+GlobalMedia`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MHK`[]🚀 HK`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+HKMTMedia`select`[]🚀 MHK`[]🚀 HK`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 MSG`[]🚀 SG`[]🚀 MJP`[]🚀 JP`[]🚀 MTW`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Final`select`[]⏳ Raw0_Monthly`[]⏳ Raw1_Yearly`[]🚀 Standby`[]Proxies`[]DIRECT`[]REJECT
