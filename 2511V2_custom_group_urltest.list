@@ -1,0 +1,34 @@
+;Fallback`fallback`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER`https://cp.cloudflare.com/generate_204`300,,50
+;fallback`放在上层ini文件中。
+;`!!GROUPID=0为第一个VPN
+
+;raw0: `[]⏳ Monthly_DLG
+;raw1: `[]⏳ Monthly_STANDBY
+;raw2: `[]🚀 Cloverud
+
+;🚀 US`url-test`!!GROUPID=0!!(美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图)`https://cp.cloudflare.com/generate_204`300,120,50
+🚀 MUS`url-test`!!GROUPID=!2!!(US|美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图)`https://cp.cloudflare.com/generate_204`300,120,50
+🚀 US`url-test`!!GROUPID=2!!(US|美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图)`https://cp.cloudflare.com/generate_204`300,120,50
+
+;🚀 HK`url-test`港|HK`https://cp.cloudflare.com/generate_204`150,,50
+🚀 MHK`url-test`!!GROUPID=!2!!(港|HK)`https://cp.cloudflare.com/generate_204`300,120,50
+🚀 HK`url-test`!!GROUPID=2!!(港|HK)`https://cp.cloudflare.com/generate_204`300,120,50
+
+;🚀 SG`url-test`新加坡|狮城|SG`https://cp.cloudflare.com/generate_204`200,,50
+🚀 MSG`url-test`!!GROUPID=!2!!(新加坡|狮城|SG)`https://cp.cloudflare.com/generate_204`300,120,50
+🚀 SG`url-test`!!GROUPID=2!!(新加坡|狮城|SG)`https://cp.cloudflare.com/generate_204`300,120,50
+
+;🚀 JP`url-test`JP|日本((?!用).)+|东京|大阪|埼玉`https://cp.cloudflare.com/generate_204`300,,50
+🚀 MJP`url-test`!!GROUPID=!2!!(JP|日本)`https://cp.cloudflare.com/generate_204`300,120,50
+🚀 JP`url-test`!!GROUPID=2!!(JP|日本)`https://cp.cloudflare.com/generate_204`300,120,50
+
+;🚀 TW`url-test`TW|台|新北|彰化`https://cp.cloudflare.com/generate_204`200,,50
+🚀 MTW`url-test`!!GROUPID=!2!!(TW|台|新北|彰化)`https://cp.cloudflare.com/generate_204`300,120,50
+🚀 TW`url-test`!!GROUPID=2!!(TW|台|新北|彰化)`https://cp.cloudflare.com/generate_204`300,120,50
+
+🚀 KR`url-test`韩|首尔`https://cp.cloudflare.com/generate_204`200,,50
+🚀 EU`select`德|加拿大|意大利|挪威|法国|爱尔兰|英|瑞|澳|UK|CH|NL
+🚀 OTHER`select`阿根廷|俄|土耳其|TR|菲律宾|马来|越南|泰国|巴西|南非|卡塔尔|印度|尼日利亚|葡萄牙
+⏳ Monthly_DLG`url-test`!!GROUPID=0`https://cp.cloudflare.com/generate_204`300,120,50
+⏳ Monthly_STANDBY`url-test`!!GROUPID=1`https://cp.cloudflare.com/generate_204`300,120,50
+🚀 Cloverud`url-test`!!GROUPID=2`https://cp.cloudflare.com/generate_204`300,120,50

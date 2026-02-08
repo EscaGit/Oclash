@@ -1,0 +1,23 @@
+; https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/custom_group_common.list
+
+;raw0: `[]⏳ Monthly_DLG
+;raw1: `[]⏳ Monthly_STANDBY
+;raw2: `[]🚀 Cloverud
+
+UserReject`select`[]REJECT`[]DIRECT`[]Proxies`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+UserDirect`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+UserProxy`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+UserHK`select`[]🚀 MHK`[]🚀 HK`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+AI`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+PT`select`[]DIRECT`[]Proxies`[]Fallback`[]REJECT
+Apple`select`[]DIRECT`[]Proxies`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Google`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Microsoft`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Telegram`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+GitHub`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+TikTok`select`[]🚀 MUS`[]🚀 US`[]Proxies`[]DIRECT`[]Fallback`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Youtube`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Netflix`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER`NF|Netflix|NETFLIX|原生|解锁
+GlobalMedia`select`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 HK`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+HKMTMedia`select`[]🚀 MHK`[]🚀 HK`[]Proxies`[]DIRECT`[]Fallback`[]🚀 MUS`[]🚀 US`[]🚀 SG`[]🚀 JP`[]🚀 TW`[]🚀 KR`[]🚀 EU`[]🚀 OTHER
+Final`select`[]🚀 Cloverud`[]⏳ Monthly_STANDBY`[]⏳ Monthly_DLG`[]Proxies`[]DIRECT`[]REJECT
