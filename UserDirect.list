@@ -12,6 +12,7 @@ SRC-IP-CIDR,192.168.1.8/31,no-resolve
 DOMAIN-SUFFIX,x3322.net
 DOMAIN-SUFFIX,tml121.imwork.net
 DOMAIN-SUFFIX,tml121.x3322.net
+DOMAIN-SUFFIX,byteimg.com
 
 # Github Release 加速站
 # Refer to: https://wkdaily.cpolar.top/archives/1
